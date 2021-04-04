@@ -17,3 +17,8 @@ You can click the Preview link to take a look at your changes.
     - Pro Git - Scott Chacon and Ben Straub
   - To Be Read
   - Read
+
+
+| --- | --- | --- |
+| ![Gnu Emacs Manual Cover](GNU-Emacs-Manual.jpg) | ![Org Mode Manual Cover](GNU-Emacs-Manual.jpg) | ![Pro Git Cover](GNU-Emacs-Manual.jpg) |
+| GNU Emacs Manual | Org Mode Manual | Pro Git - Scott Chacon and Ben Straub |
